@@ -21,7 +21,7 @@ Once you are finished creating your linear regression model, make sure to commit
 
 ## 📝 Instructions
 
-**(dataset title) data**:
+**Predicting the medical insurance cost per person**:
 
 Description of the dataset
 
