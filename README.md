@@ -27,33 +27,29 @@ Description of the dataset
 
 **Step 1:**
 
-Go to the following online dataset  (dataset link) and download the data.
-Save it yor in your project's 'data/raw' folder. Time to work on it!
+The dataset can be found in this project folder as 'bank-marketing-campaign-data.csv' file. You are welcome to load it directly from the link (https://raw.githubusercontent.com/4GeeksAcademy/linear-regression-project-tutorial/main/medical_insurance_cost.csv), or to download it and add it to your data/raw folder. In that case, don't forget to add the data folder to the .gitignore file.
+
+Time to work on it!
 
 **Step 2:**
 
-Use the explore.ipynb notebook to find patterns and valuable information that will help on your cleaning process. 
+Use the explore.ipynb notebook to find patterns and valuable information.
 
 Don't forget to write your observations.
-
-Use the app.py to create your cleaning pipeline. Save your clean data in the 'data/processed'  folder.
 
 
 **Step 3:**
 
-Now that you have a better knowledge of the data, in your exploratory notebook create a first linear regression model with your clean data.
+Now that you have a better knowledge of the data, in your exploratory notebook create a first linear regression model with your data, in order to predict the insurance prima.
 
 Choose a metric to measure your results.
 
 **Step 4:**
 
-Hypertune your model to improve your results as many times as you want until you feel happy with them.
+Hypertune your model to improve your results.
 
-Again use the app.py to create your final machine learning pipeline. 
+Use the app.py to create your final machine learning modeling pipeline. 
 
 Save your final model in the 'models' folder.
 
-
->Make sure to add the entire data folder to your .gitignore file. Specially for big datasets, this is very important. 
-
-In your README file write a brief summary of your cleaning and modeling process and also explain where the data comes from (Add the link), because you won't upload any of the data folders.
+In your README file write a brief summary.
