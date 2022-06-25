@@ -21,7 +21,7 @@ Once you are finished creating your linear regression model, make sure to commit
 
 ## 📝 Instructions
 
-**Predicting the medical insurance cost of a person**:
+**Predicting the medical insurance cost of a person**
 
 This dataset has 7 columns. We will use the 'charges' column as the target variable because we want to create a model that predicts the cost of the insurance based on different factors.
 
@@ -45,7 +45,7 @@ Columns
 
 **Step 1:**
 
-The dataset can be found in this project folder as 'bank-marketing-campaign-data.csv' file. You are welcome to load it directly from the link (https://raw.githubusercontent.com/4GeeksAcademy/linear-regression-project-tutorial/main/medical_insurance_cost.csv), or to download it and add it to your data/raw folder. In that case, don't forget to add the data folder to the .gitignore file.
+The dataset can be found in this project folder as 'medical_insurance_cost.csv' file. You are welcome to load it directly from the link (https://raw.githubusercontent.com/4GeeksAcademy/linear-regression-project-tutorial/main/medical_insurance_cost.csv), or to download it and add it to your data/raw folder. In that case, don't forget to add the data folder to the .gitignore file.
 
 Time to work on it!
 
