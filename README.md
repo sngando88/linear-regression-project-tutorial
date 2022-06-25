@@ -2,10 +2,10 @@
 # Linear Regression Project Tutorial
 <!-- endhide -->
 
-- 
-- 
-- 
-- 
+- In this project we will build a linear regression model to predict the insurance prima for an individual based on different factors.
+- Start with your exploratory data analysis and data transformation if needed.
+- Build your baseline model, measure your results and optimize your model.
+- Finally, create a pipeline for your final model and put it in you app.py file. 
 
 ## 🌱  How to start this project
 
@@ -21,9 +21,9 @@ Once you are finished creating your linear regression model, make sure to commit
 
 ## 📝 Instructions
 
-**Predicting the medical insurance cost per person**:
+**Predicting the medical insurance cost of a person**:
 
-(Description of the dataset)
+This dataset has 7 columns. We will use the 'charges' column as the target variable because we want to create a model that predicts the cost of the insurance based on different factors.
 
 Columns
 
@@ -51,7 +51,9 @@ Time to work on it!
 
 **Step 2:**
 
-Use the explore.ipynb notebook to find patterns and valuable information.
+Use the explore.ipynb notebook to find patterns and valuable information about relationships between features or between feature and target.
+
+>Hint: There are no null values
 
 Don't forget to write your observations.
 
