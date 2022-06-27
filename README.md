@@ -47,6 +47,8 @@ Columns
 
 The dataset can be found in this project folder as 'medical_insurance_cost.csv' file. You are welcome to load it directly from the link (https://raw.githubusercontent.com/4GeeksAcademy/linear-regression-project-tutorial/main/medical_insurance_cost.csv), or to download it and add it to your data/raw folder. In that case, don't forget to add the data folder to the .gitignore file.
 
+>If you find yourself struggling with this project, you can check out the solution guide: https://github.com/4GeeksAcademy/linear-regression-project-tutorial/blob/main/solution_guide.ipynb
+
 Time to work on it!
 
 **Step 2:**
