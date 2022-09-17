@@ -27,19 +27,19 @@ This dataset has 7 columns. We will use the 'charges' column as the target varia
 
 Columns
 
-- age: age of primary beneficiary
+- age: age of primary beneficiary.
 
-- sex: insurance contractor gender, female or male
+- sex: insurance contractor gender, female or male.
 
-- bmi: Body mass index
+- bmi: Body mass index.
 
-- children: Number of children covered by health insurance / Number of dependents
+- children: number of children covered by health insurance / Number of dependents.
 
-- smoker: Smoking
+- smoker: smoking.
 
 - region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 
-- charges: Individual medical costs billed by health insurance
+- charges: Individual medical costs billed by health insurance.
 
 
 
