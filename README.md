@@ -2,18 +2,18 @@
 # Linear Regression Project Tutorial
 <!-- endhide -->
 
-- In this project we will build a linear regression model to predict the insurance prima for an individual based on different factors.
+- In this project, we will build a linear regression model to predict the insurance prima for an individual based on different factors.
 - Start with your exploratory data analysis and data transformation if needed.
 - Build your baseline model, measure your results and optimize your model.
-- Finally, create a pipeline for your final model and put it in you app.py file. 
+- Finally, create a pipeline for your final model and put it in your app.py file. 
 
 ## 🌱  How to start this project
 
-You will not be forking this time, please take some time to read this instructions:
+You will not be forking this time, please take some time to read these instructions:
 
 1. Create a new repository based on [machine learning project](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) by [clicking here](https://github.com/4GeeksAcademy/machine-learning-python-template).
-2. Open the recently created repostiroy on Gitpod by using the [Gitpod button extension](https://www.gitpod.io/docs/browser-extension/).
-3. Once Gitpod VSCode has finished opening you start your project following the Instructions below.
+2. Open the recently created repository on Gitpod by using the [Gitpod button extension](https://www.gitpod.io/docs/browser-extension/).
+3. Once Gitpod VSCode has finished opening, start your project following the Instructions below.
 
 ## 🚛 How to deliver this project
 
@@ -55,7 +55,7 @@ Time to work on it!
 
 Use the explore.ipynb notebook to find patterns and valuable information about relationships between features or between feature and target.
 
->Hint: There are no null values
+> Hint: There are no null values
 
 Don't forget to write your observations.
 
@@ -74,4 +74,4 @@ Use the app.py to create your final machine learning modeling pipeline.
 
 Save your final model in the 'models' folder.
 
-In your README file write a brief summary.
+In your README file, write a brief summary.
