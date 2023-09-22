@@ -1,25 +1,25 @@
 <!-- hide -->
-# Regresión lineal
+# Regresión lineal - Guía paso a paso
 <!-- endhide -->
 
 - Comprender un dataset nuevo.
 - Procesarlo aplicando un análisis exploratorio (EDA).
 - Modelar los datos utilizando la regresión logística.
-- Analizar los resultados y optimizar el modelo.
+- Analizar los resultados y optimizar el modelo si fuera posible.
 
 ## 🌱  Cómo iniciar este proyecto
 
-Esta vez no se hará Fork, tómate un tiempo para leer estas instrucciones:
+Sigue las siguientes instrucciones:
 
-1. Crear un nuevo repositorio basado en el [proyecto de Machine Learing](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) [haciendo clic aquí](https://github.com/4GeeksAcademy/machine-learning-python-template).
-2. Abre el repositorio creado recientemente en Gitpod usando la [extensión del botón de Gitpod](https://www.gitpod.io/docs/browser-extension/).
-3. Una vez que Gitpod VSCode haya terminado de abrirse, comienza tu proyecto siguiendo las instrucciones a continuación.
+1. Crea un nuevo repositorio basado en el [proyecto de Machine Learing](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) [haciendo clic aquí](https://github.com/4GeeksAcademy/machine-learning-python-template).
+2. Abre el repositorio creado recientemente en Codespace usando la [extensión del botón de Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
+3. Una vez que el VSCode del Codespace haya terminado de abrirse, comienza tu proyecto siguiendo las instrucciones a continuación.
 
 ## 🚛 Cómo entregar este proyecto
 
-Una vez que hayas terminado de resolver los ejercicios, asegúrate de confirmar tus cambios, hazle "push" a el fork de tu repositorio y ve a 4Geeks.com para subir el enlace del repositorio.
+Una vez que hayas terminado de resolver el caso práctico, asegúrate de confirmar tus cambios, haz push a tu repositorio y ve a 4Geeks.com para subir el enlace del repositorio.
 
-## 📝 Instructions
+## 📝 Instrucciones
 
 ### Predecir el coste del seguro médico de una persona
 
@@ -29,13 +29,13 @@ La importante compañía de seguros 4Geeks Insurance S.L. quiere calcular, en fu
 
 El conjunto de datos se puede encontrar en esta carpeta de proyecto bajo el nombre `medical_insurance_cost.csv`. Puedes cargarlo en el código directamente desde el enlace (`https://raw.githubusercontent.com/4GeeksAcademy/linear-regression-project-tutorial/main/medical_insurance_cost.csv`) o descargarlo y añadirlo a mano en tu repositorio. En este conjunto de datos encontrarás las siguientes variables:
 
-1. age. Edad del beneficiario principal (numérico)
-2. sex. Género del beneficiario principal (categórico)
-3. bmi. Indice de masa corporal (numérico)
-4. children. Número de niños/dependientes cubiertos por el seguro de salud (numérico)
-5. smoker. ¿Es fumador? (categórico)
-6. region. Área residencial del beneficiario en USA: noreste, sureste, suroeste, noroeste (categórico)
-7. charges. Prima del seguro médico (numerico)
+1. `age`. Edad del beneficiario principal (numérico)
+2. `sex`. Género del beneficiario principal (categórico)
+3. `bmi`. Indice de masa corporal (numérico)
+4. `children`. Número de niños/dependientes cubiertos por el seguro de salud (numérico)
+5. `smoker`. ¿Es fumador? (categórico)
+6. `region`. Área residencial del beneficiario en USA: noreste, sureste, suroeste, noroeste (categórico)
+7. `charges`. Prima del seguro médico (numerico)
 
 #### Paso 2: Realiza un EDA completo
 
@@ -49,4 +49,6 @@ No es necesario que optimices los hiperparámetros. Comienza utilizando una defi
 
 #### Paso 4: Optimiza el modelo anterior
 
-Después de entrenar el modelo, si los resultados no son satisfactorios, optimízalo empleando alguna de las técnicas vistas anteriormente.
+Después de entrenar el modelo, si los resultados no son satisfactorios, optimízalo si fuera posible.
+
+> NOTA: Solución: https://github.com/4GeeksAcademy/linear-regression-project-tutorial/blob/main/solution.ipynb

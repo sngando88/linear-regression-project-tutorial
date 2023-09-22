@@ -1,23 +1,23 @@
 <!-- hide -->
-# Linear regression
+# Linear regression - Step by step guide
 <!-- endhide -->
 
 - Understand a new dataset.
 - Process it by applying exploratory data analysis (EDA).
 - Model the data using logistic regression.
-- Analyze the results and optimize the model.
+- Analyze the results and optimize the model if possible.
 
 ## 🌱  How to start this project
 
-You will not be forking this time, please take some time to read these instructions:
+Follow the instructions below:
 
 1. Create a new repository based on [machine learning project](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) by [clicking here](https://github.com/4GeeksAcademy/machine-learning-python-template).
-2. Open the recently created repository on Gitpod by using the [Gitpod button extension](https://www.gitpod.io/docs/browser-extension/).
-3. Once Gitpod VSCode has finished opening, start your project following the Instructions below.
+2. Open the newly created repository in Codespace using the [Codespace button extension](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
+3. Once the Codespace VSCode has finished opening, start your project by following the instructions below.
 
 ## 🚛 How to deliver this project
 
-Once you are finished creating your linear regression model, make sure to commit your changes, push to your repository and go to 4Geeks.com to upload the repository link.
+Once you have finished solving the exercises, be sure to commit your changes, push to your repository and go to 4Geeks.com to upload the repository link.
 
 ## 📝 Instructions
 
@@ -29,13 +29,13 @@ The important insurance company 4Geeks Insurance S.L. wants to calculate, based 
 
 The dataset can be found in this project folder under the name `medical_insurance_cost.csv`. You can load it into the code directly from the link (`https://raw.githubusercontent.com/4GeeksAcademy/linear-regression-project-tutorial/main/medical_insurance_cost.csv`) or download it and add it by hand in your repository. In this dataset you will find the following variables:
 
-1. age. Age of primary beneficiary (numeric)
-2. sex. Gender of the primary beneficiary (categorical)
-3. bmi. Body mass index (numeric)
-4. children. Number of children/dependents covered by health insurance (numeric) 5.
-5. smoker. smoker (categorical)
-6. region. Beneficiary's residential area in the U.S.: northeast, southeast, southwest, northwest (categorical)
-7. charges. Health insurance premium (numerical)
+1. `age`. Age of primary beneficiary (numeric)
+2. `sex`. Gender of the primary beneficiary (categorical)
+3. `bmi`. Body mass index (numeric)
+4. `children`. Number of children/dependents covered by health insurance (numeric)
+5. `smoker`. smoker (categorical)
+6. `region`. Beneficiary's residential area in the U.S.: northeast, southeast, southwest, northwest (categorical)
+7. `charges`. Health insurance premium (numerical)
 
 #### Step 2: Perform a full EDA
 
@@ -49,4 +49,6 @@ You do not need to optimize the hyperparameters. Start by using a default defini
 
 #### Step 4: Optimize the previous model
 
-After training the model, if the results are not satisfactory, optimize it using one of the techniques seen above.
+After training the model, if the results are not satisfactory, optimize it if possible.
+
+> NOTE: Solution: https://github.com/4GeeksAcademy/linear-regression-project-tutorial/blob/main/solution.ipynb
